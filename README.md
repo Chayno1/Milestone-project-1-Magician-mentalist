@@ -1,12 +1,20 @@
 Milestone 1 - Magician/Mentalist
 
+
+
 WHO IS THIS FOR AND WHY THEY NEED A WEBSITE.
 
 I perform as a magician and mentalist, performing magic tricks and mind reading effects at parties,weddings, birthdays and other organised events. My act is unique as it combines traditional magic tricks  with traditinal mentalism effects reinvented for a mordern day audience. My act comes in three types of performance, close up/walkaround, parlour and stage. I take bookings for my performances and most of my bookings are aquired by word of mouth. Across the country there are lots of magicians available to book however no two magicians are the same, each magician has his or her own unique style and method of performing. In this case it is important for anyone booking a magic act to understand what type of magician they want to book and what type of act. For the magician it is important to showcase his or her own unique style and type of act they are able to perform. To help showcase this for me, I have decided to build a website to help potenial bookers get a feel and understsanding of myself as a performer and what kind of performances I do. It can also provide a way of communicating any queries regarding my services or enquirie to potenial bookings.
 
+
+
+
 PROJECT AIM
 
 The aim of the project is to build a website that describes the performer and the services that they provide and a way of contacting the performer with questions or enquires.
+
+
+
 
 WEBSITE NEEDS
 
@@ -20,6 +28,7 @@ WEBSITE NEEDS
 
 - Showcase the performers ability
 
+
 WEBSITE DESIGN NEEDS
 
 - Website site needs to be mordern and stylish
@@ -27,6 +36,11 @@ WEBSITE DESIGN NEEDS
 - Unique to the performer
 
 - Simple and easy to use
+
+- Viewable on all sizes of devices
+
+
+
 
 ACTION PLAN
 
@@ -48,20 +62,19 @@ The Contact Page
 
 - The contact page will be where visitors to the site can fill out an enquiry form to pose a question or enquire about a potenial booking.
 
+To help visitors move between the pages I'm going to input a navbar. This will sit in the header of main body of the page. 
+To keep the website simple and easy to use I'm going to have the same header and footer on every page of the site. This will help visitors intuitively understand how to move around the website.
+The header will consist of the name of the performer and performance type and navbar.
+The Footer will consist of email contact details for the performer and performers local location and distance willing to travel.
+As an addition to the website I will also add links to social media for the performer, this will be placed in the footer opening in a separate tab giving the user oppertunity to find further information on the performer and also allowing them to remain on the website.
 
 
-
-- Project name
-
-- About, who , what, why
-
--project aims
-
-- website needs
-
-- action plan
 
 - Wireframes, sketched layout
+
+
+
+
 
 - Design changes 
 
