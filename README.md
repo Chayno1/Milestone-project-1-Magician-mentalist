@@ -72,6 +72,7 @@ As an addition to the website I will also add links to social media for the perf
 
 - Wireframes, sketched layout
 
+<img href="../images/design-img/mainpagedesktop">
 
 
 
