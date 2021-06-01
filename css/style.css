@@ -1,0 +1,14 @@
+/* -------------------header---*/
+
+.title {
+    text-align: center;
+    color: coral;
+}
+
+/* -------------------navbar---*/
+
+#nav {
+    text-align: right;
+    margin-right: 35px;
+  
+}
