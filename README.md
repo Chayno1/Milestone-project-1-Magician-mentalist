@@ -70,12 +70,15 @@ As an addition to the website I will also add links to social media for the perf
 
 
 
-- Wireframes, sketched layout
+Wireframes, sketched layout
 
 
-Main home page layout -
+- Main home page layout -
 
 <img src="design-images/Mentalist_Magician website Main page Desktop.png">
+
+
+
 
 
 

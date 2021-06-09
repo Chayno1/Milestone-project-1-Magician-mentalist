@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Open+Sans&display=swap');
 
 
+body {
+    background-color: rgb(146, 179, 207);
+    background-image: url("https://8000-silver-cow-nq9jarmp.ws-eu08.gitpod.io/images/background-color.jpeg");
+}
+
 /* ---------------------------------------header---*/
 
 
@@ -114,3 +119,54 @@ footer {
 body {
     margin: 0;
 }
+
+/* ---------------------------------------------Home page Main body---*/
+
+
+#main-page-image {
+    float: left;
+    width: 33%;
+    top: -40px;
+    bottom: 0px;
+    position: relative;
+}
+
+.main-page-text {
+    font-family: 'Aclonica', sans-serif ; 
+}
+
+.buzzwords {
+    float: right;
+    width: 60%;
+    top: -40px;
+    position: relative;
+    margin-right: 10px;
+    color: rgb(40, 126, 175);
+    text-shadow: 10px 0 5px #212529;
+}
+
+#experience-buzzword {
+    text-align: left;
+    font-size: 50px;
+}
+#enjoy-buzzword {
+    text-align: center;
+    font-size: 50px;
+    padding-right: 280px;
+}
+#impress-buzzword {
+    text-align: right;
+    font-size: 50px;
+    padding-right: 40px;
+}
+
+.main-content {
+    float: right;
+    width: 60%;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: aliceblue;
+    font-size: larger;
+    background-color:rgb(52,58,64,0.7);
+    }
+  
