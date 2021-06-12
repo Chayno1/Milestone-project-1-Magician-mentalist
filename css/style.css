@@ -242,16 +242,48 @@ body {
 
     /* -----------------------------------------------------------Gallery Page---*/
 
+    
+
     .img-fluid {
         width: 350px;
         height: auto;
-        margin: 10px;
+        margin: 10px;     
     }
 
-    .pic-1 {
-        height: 300px;
-        width: 200px;
-    }
 
-        
+  /* -------------------------------------------------------------Contact Page---*/   
+  
+  #contact-heading {
+    font-family: 'Aclonica', sans-serif ;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 0px;
+    background-color:rgb(52,58,64,0.7);
+  }
 
+  
+  .form  {
+    color: aliceblue;
+    font-family: 'Aclonica', sans-serif ;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+  }
+
+
+  form label {
+      padding: 12px;
+  }
+
+  #name {
+      width: 300px;
+  }
+
+  #email {
+      width: 300px;
+  }
+
+ #event {
+     width: 300px;
+ }

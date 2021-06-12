@@ -37,8 +37,59 @@
             </nav>
         </div>
     </header>
-    <section></section>
-    <section></section>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="page-title">Contact</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4 id="contact-heading">If your interested in booking Chay or have a question for him please fill in the form below</h4>
+            </div>
+        </div>
+        
+        <div class="form">
+           
+                <form  action="https://chaywisdom.co.uk" method="POST">
+
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Please enter your name here" required>
+                       <br>
+                    <label for="email" id="email-label">Email Adress</label>
+                    <input type="email" id="email" name="email-enquiry" placeholder="Please enter email here" required>
+                        <br>
+                    <p>Would you to be added to the newsletter?</p>
+                    <label for="yes">Yes</label>
+                    <input type="radio" id="yes" name="newsletter" value="yes">
+                    <label for="No">No</label>
+                    <input type="radio" id="no" name="newsletter" value="no" required>
+                        <br>
+                    <label for="interest">Interested in?</label>
+                    <select name="interested-in" id="interest" required>
+                        <option value="walk-around">Close up/Walk around</option>
+                        <option value="parlour">Parlour</option>
+                        <option value="stage">Stage Show</option>
+                        <option value="question">Ask a Question</option>
+                        <option value="other">Other</option>
+                    </select>
+                         <br>
+                    <label for="date">date of Event</label>
+                    <input type="date" name="date" id="date" value="event-date" min="2021-09-01">
+                         <br>
+                    <label for="event">Type of Event</label>
+                    <input type="text" name="event-type" id="event"  placeholder="wedding, birthday, carnival, etc ..." >
+                         <br>
+                         
+                    <label for="enquiry">Make your enquiry</label><br>
+                    <textarea name="enquiry" id="enquiry" placeholder="please type your enquiry here" cols="60" rows="10"></textarea>
+                    <br>
+                    <label for="submit">Submit enquiry</label>
+                    <input type="submit" id="submit" value="submit">
+                </form>
+            
+        </div>
+    </div>
     <footer>
         <div class="footer-container">
                  <div class="footer-heading-1 box">
@@ -48,9 +99,11 @@
                       <a  class="hvr-grow"href="contact.html" target="_blank">click here to enquire!</a>
                  </div>
                  <div class="footer-heading-2 box">
+                     <form action="https://chaywisdom.co.uk" method="post">
                       <h5>Join Chay's Newsletter!</h5>
-                      <input type="email" placeholder="Enter Your Email Here" id="footer-email">
+                      <input type="email" name="email" placeholder="Enter Your Email Here" id="footer-email" required>
                       <input type="submit"class="btn btn-outline-light" value="Sign Up!">
+                    </form>
                  </div>
                  <div class="footer-heading-3 box">
                       <h5>Follow Chay on :-</h5>
