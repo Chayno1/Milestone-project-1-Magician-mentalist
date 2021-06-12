@@ -75,7 +75,7 @@ WIREFRAMES, SKETCHED LAYOUT
 
 - Main home page layout -
 
-<img src="design-images/Mentalist_Magician website Main page Desktop.png">
+<img src="design-images/home-page.jpeg.png">
 
 
 
