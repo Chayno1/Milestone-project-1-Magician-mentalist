@@ -239,5 +239,19 @@ body {
         color: aliceblue;
     }
 
+
+    /* -----------------------------------------------------------Gallery Page---*/
+
+    .img-fluid {
+        width: 350px;
+        height: auto;
+        margin: 10px;
+    }
+
+    .pic-1 {
+        height: 300px;
+        width: 200px;
+    }
+
         
 
