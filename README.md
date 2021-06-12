@@ -70,7 +70,7 @@ As an addition to the website I will also add links to social media for the perf
 
 
 
-Wireframes, sketched layout
+WIREFRAMES, SKETCHED LAYOUT
 
 
 - Main home page layout -
@@ -90,6 +90,12 @@ Wireframes, sketched layout
 - Final Product
 
 - References/ Credits 
+
+The background image I got from cool baackgrounds website https://coolbackgrounds.io/ from their free to use section
+
+<img src="images/background-color.jepg">
+
+The grow transition for the 'click here to enquire' in the footer is from Hover.css http://ianlunn.github.io/Hover/
 
 - Evaluation
 

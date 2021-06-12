@@ -3,16 +3,18 @@
 
 body {
     background-color: rgb(146, 179, 207);
-    background-image: url("https://8000-silver-cow-nq9jarmp.ws-eu08.gitpod.io/images/background-color.jpeg");
+    background-image: url("/images/background-color.jpeg");
 }
 
-/* ---------------------------------------header---*/
+ 
+
+/* --------------------------------------------------------------header---*/
 
 
 #title-image {
     height: 200px;
     width: 100%;
-    background: url("https://8000-silver-cow-nq9jarmp.ws-eu08.gitpod.io/images/title.jpeg")  center center;
+    background: url("/images/title.jpeg")  center center;
 }
 
 #title-text h1 {
@@ -27,7 +29,7 @@ body {
     position:relative
 }
 
-/* ---------------------------------------------navbar---*/
+/* ----------------------------------------------------------navbar---*/
 
 .container-fluid  {
    padding-right: 0;
@@ -53,7 +55,7 @@ body {
     background:rgb(40, 126, 175, 0.5) ;
 }
 
-/* ---------------------------------------------Footer---*/
+/* -----------------------------------------------------------Footer---*/
 
 footer {
     width: 100%;
@@ -103,6 +105,10 @@ footer {
     padding-right: 10px;
 }
 
+#footer-email {
+    width: 260px;
+}
+
 
 .social-links li {
     display:inline;
@@ -120,15 +126,36 @@ body {
     margin: 0;
 }
 
-/* ---------------------------------------------Home page Main body---*/
+
+/* -------------------------------------------------Page titles------------*/
 
 
-#main-page-image {
+
+.page-title {
+    color: rgb(40, 126, 175);
+    text-shadow: 10px 0 5px #212529;
+    font-family: 'Aclonica', sans-serif ;
+    font-size: 50px;
+    position: relative;
+    bottom: 50px; 
+    right: 40px;
+}
+
+
+
+/* -------------------------------------------------Home page Main body---*/
+
+
+.main-page-image {
     float: left;
     width: 33%;
     top: -40px;
     bottom: 0px;
     position: relative;
+}
+
+#main-image {
+    border-radius: 8px;
 }
 
 .main-page-text {
@@ -169,4 +196,48 @@ body {
     font-size: larger;
     background-color:rgb(52,58,64,0.7);
     }
+
+    .main-content a {
+        color: aliceblue;
+    }
   
+    /* -----------------------------------------------------------About Page---*/
+
+
+    .about-page {
+        font-family: 'Aclonica', sans-serif ; 
+        color: aliceblue;
+    }
+
+    .about-chay {
+        right: 20px;
+    }
+
+    #about-image {
+        width: 100%;
+        height: 40%;   
+    }
+
+    .about-performances {
+        background-color:rgb(52,58,64,0.7);
+        left: 20px;
+    }
+
+    .about-link {
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-family: 'Aclonica', sans-serif ;
+        color: aliceblue;
+        text-align: center;
+    }
+
+    .about-link h4 {
+        font-size: 15px;
+    }
+
+    .about-link a {
+        color: aliceblue;
+    }
+
+        
+
