@@ -75,7 +75,19 @@ WIREFRAMES, SKETCHED LAYOUT
 
 - Main home page layout -
 
-<img src="design-images/home-page.jpeg.png">
+<img src="design-images/home-page.jpeg">
+
+- About page layout -
+
+<img src="design-images/about-page.jpeg">
+
+- Gallery page layout -
+
+<img src="design-images/gallery-page.jpeg">
+
+- Contact page layout -
+
+<img src="design-images/contact-page.jpeg">
 
 
 
