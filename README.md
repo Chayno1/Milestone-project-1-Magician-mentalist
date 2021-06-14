@@ -76,13 +76,7 @@ To achieve the aim of the project I'm going to design a website consisting of 4 
 
 - The contact page will be where visitors to the site can fill out an enquiry form to pose a question or enquire about a potenial booking.
 
-To help visitors move between the pages I'm going to input a navbar. This will sit in the header of main body of the page. 
-To keep the website simple and easy to use I'm going to have the same header and footer on every page of the site. This will help visitors intuitively understand how to move around the website.
-The header will consist of the name of the performer and performance type and navbar.
-The Footer will consist of email contact details for the performer and performers local location and distance willing to travel.
-As an addition to the website I will also add links to social media for the performer, this will be placed in the footer opening in a separate tab giving the user oppertunity to find further information on the performer and also allowing them to remain on the website.
-
-## Website Design choices
+## WEBSITE DESIGN CHOICES
 
 ### Website Navigation
 
@@ -96,6 +90,8 @@ To keep the website simple and easy to use I'm going to have the same header on 
 - The Footer will consist of email contact details for the performer and performers local location and distance willing to travel.
 
 - Like the Header and navbar the footer will be the same across all four pages of the site, giving the user opportunity to quickly access additional social media links or contact perofrmer from any page on the site.
+
+- As an addition to the website I will also add links to social media for the performer, this will be placed in the footer opening in a separate tab giving the user oppertunity to find further information on the performer and also allowing them to remain on the website.
 
 ### Website Main body
 
@@ -134,7 +130,7 @@ To keep the website simple and easy to use I'm going to have the same header on 
 <img src="design-images/contact-page.jpeg">
 
 
-## Design changes 
+## DESIGN CHANGES 
 
 Creating the website the wireframes sketched layout was used as a guide to the overall look of the website.
 However some changes were made due to the aesthetics of the website once realised and sizing of promotional photos for the website. Also some additional features were added to website as  well, these features add to the aesthetic look of the website and also provide additional useful functions for the user and the business.
