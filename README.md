@@ -105,6 +105,12 @@ To keep the website simple and easy to use I'm going to have the same header on 
 <span style="color:#343a40">color used for header</span>
 <span style="color:rgb(40, 126, 175)">color used for titles</span>
 <span style="color:aliceblue">color used for text</span>
+
+### Font Family 
+
+- The font choosen for the website is Aclonia with sans-serif backup from google fonts :https://fonts.google.com/specimen/Aclonica 
+
+- The font was choosen as it is stylish but still clear and easily readable. To keep the flow and look of the website simple but stylish the same font is used throughout the site.
  
 
 ## WIREFRAMES, SKETCHED LAYOUT
@@ -185,6 +191,35 @@ This type of link is also at the bottom of the about page linking to the contact
 
 
 ## CODE BUGS/FIXES
+
+ - additional classes were made to adjust gallery images in smaller screen sizes, a quick fix the images were split into rows and adjusted in CSS.
+
+ ![image of CSS code for rows 1,2,3](design-images/bug-row-image.jpeg)
+
+
+
+- To adjust social media icons in CSS had to target down to the i element in CSS.
+
+![image of html,CSS,Preview code for social links in footer fix](design-images/bug-social-image.jpeg)
+
+
+- On the home page had to give the three tag lines 'experience' 'enjoy' 'impress your guests' each their own id. This was in order to position them on the page.
+
+![image of CSS code for home page tag line fix](design-images/bug-buzzword-image.jpeg)
+
+
+- The navbar and header image did not sit flush together on screens smaller than 509px. This was fixed by changing the title Magician/Mentalist to a smaller size 30px.
+
+![image of CSS code for navbar fix](design-images/bug-navbar-image.jpeg)
+
+
+#### Issues not fixed
+
+- Issue with images in the gallery. Unable to get the images to aline as wanted. bootstrap v5.0.1  was used to help build the gallery. Possible issue with align is the div.row .col set up used and how they are spread across the screen instead of down in columns. Issue still to be fixed.
+
+![image of gallery issues](design-images/bug-gallery-image.jpeg)
+
+- No working link for contact form, newsletter submit to link to, knowledge not yet acquired.
 
 ## FINAL PRODUCT
 
