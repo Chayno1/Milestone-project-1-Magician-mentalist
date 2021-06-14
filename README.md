@@ -101,10 +101,10 @@ To keep the website simple and easy to use I'm going to have the same header on 
 
 - I have choosen colours for the website based off a few promotional photos for the performer, I will be using these photos as the main images on the site and will base the colours on the photos.
 
-<span style="color:#2125" >color used shadows</span>
-<span style="color:#343a40">color used for header</span>
-<span style="color:rgb(40, 126, 175)">color used for titles</span>
-<span style="color:aliceblue">color used for text</span>
+- <span style="color:#2125" >color used shadows - #2125</span> color used shadows - #2125
+- <span style="color:#343a40">color used for header - #343a40</span>
+- <span style="color:rgb(40, 126, 175)">color used for titles - rgb(40, 126, 175)</span>
+- <span style="color:aliceblue">color used for text - aliceblue</span>
 
 ### Font Family 
 
