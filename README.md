@@ -136,6 +136,21 @@ To keep the website simple and easy to use I'm going to have the same header on 
 
 ## Design changes 
 
+Creating the website the wireframes sketched layout was used as a guide to the overall look of the website.
+However some changes were made due to the aesthetics of the website once realised and sizing of promotional photos for the website. Also some additional features were added to website as  well, these features add to the aesthetic look of the website and also provide additional useful functions for the user and the business.
+Design changes and additional features are listed below :-
+
+### Header Image
+   on all size screens
+### Site Navigation
+navbar, bootstrap, link to about, photo of navbar and header
+### Footer
+newsletter, contact link, photo of footers
+### Main Background Image
+reasons for import image, photo of background image
+### Quick Links
+links in text, screens shot of links
+
 
 
 ## code bugs/fixes
@@ -143,6 +158,8 @@ To keep the website simple and easy to use I'm going to have the same header on 
 ## Final Product
 
 ### Main page top
+
+<br>
 
 ![home page top half view](design-images/main-page-top.jpeg)
 
@@ -153,6 +170,22 @@ To keep the website simple and easy to use I'm going to have the same header on 
 ### Main page tablet
 
 ![home page tablet view body content](design-images/main-page-tablet.png)
+
+### Main page Mobile
+
+![home page mobile view](design-images/main-page-mobile.JPG)
+
+### Website Desktop/laptop 
+
+![website desktop view of 3 pages](design-images/website-desktop-view.jpeg)
+
+### Website Tablet
+
+![website tablet view of 3 pages](design-images/website-tablet-view.jpeg)
+
+### Website Mobile
+
+![website mobile view of 3 pages](design-images/website-mobile-view.jpeg)
 
 
 ## References/ Credits 
