@@ -41,7 +41,7 @@ The aim of the project is to build a website that describes the performer and th
 
 - Viewable on all sizes of devices
 
-## User Needs 
+## USER NEEDS 
 
 - Whos website they are on, and what service they are providing.
 
@@ -137,25 +137,59 @@ However some changes were made due to the aesthetics of the website once realise
 Design changes and additional features are listed below :-
 
 ### Header Image
-   on all size screens
+
+- The header image used on the site is the main header image on all screen sizes, the image is repeated on larger screens due to its style the transition at the ends of the photo blend in nicely allowing the photo to use the full width of the screen.
+
+- The performer name has been moved down to the navbar, The performers profession reamins over the bottom section of the image.
+
 ### Site Navigation
-navbar, bootstrap, link to about, photo of navbar and header
+
+![cut sections of header image](design-images/header-image.jpeg)
+
+- The navbar was made using bootstrap v5.0.1 
+
+- The navbar now runs across the whole screen below header image for better aestthetics.
+
+- The performers name and profession was added to navbar, this is also a link to the about section, giving the use quick access if they deide they want to find out more about the performer.
+
+- The navbar collapses into a toggler icon from bootstrap v5.0.1 when website is viewed on smaller screens
+
+ 
 ### Footer
-newsletter, contact link, photo of footers
+
+![cut sections of footer image](design-images/footer-image.jpeg)
+
+- An email submit to newsletter was added to the center of the footer. This is an additional feature which allows the performer to contact possible cilents that are interested in thier services in the form of newsletter. The newsletter can have information for possible cilents like public performances, special offers, available dates, performance demos. This also benifits the user as they can recieve these updates if they choose, helping them make a more informed decision on whether this is a service they want.
+
+- Instead of an email address I have put in a link to the contact page which opens in a new tab. This helps the performer and the user as the contact page poses some basic questions to answer before submitting a message. This helps the user frame their question and helps the performer better understand the potenial clients position.
+
+- The link to the contact page has the transition 'grow' which was obtained from hover.css
+
+- The social media links use icons obtained from https://fontawesome.com/ 
+
+- On smaller screens the footer options change to just the social media links.
+ 
 ### Main Background Image
-reasons for import image, photo of background image
+
+![main background image](images/background-color.jpeg)
+
+- While creating the website the basic <span style="color:rgb(40, 126, 175)">color</span> intended for the background was a little plain, so a new background image was sourced from https://coolbackgrounds.io/ , the original color was reserved as a backup background.
+
 ### Quick Links
-links in text, screens shot of links
+
+- Additional featue added while creating the website was links within the text to different sections of the website relavent to the content they are in. For example on the main page while reading the main content there are two links embedded in the text, one linking to the about page and one to the contacts page. This gives the user quick access to next piece of content they are likely wanting to access after reading the main page.
+This type of link is also at the bottom of the about page linking to the contact page.
+
+![cut sections of quick links](design-images/quick-link-image.jpeg)
 
 
 
-## code bugs/fixes
+## CODE BUGS/FIXES
 
-## Final Product
+## FINAL PRODUCT
 
 ### Main page top
 
-<br>
 
 ![home page top half view](design-images/main-page-top.jpeg)
 
@@ -191,6 +225,10 @@ The background image I got from cool baackgrounds website https://coolbackground
 <img src="images/background-color.jepg">
 
 The grow transition for the 'click here to enquire' in the footer is from Hover.css http://ianlunn.github.io/Hover/
+
+https://getbootstrap.com/docs/5.0/components/navbar/
+
+https://fontawesome.com/
 
 ## Evaluation
 
