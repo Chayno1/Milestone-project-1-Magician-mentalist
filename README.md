@@ -1,17 +1,66 @@
 # Milestone 1 - Magician/Mentalist
 
- 
+## Contents
+
+ ## Project Aims
+ <details>
+ <summary>click to expand</summary>
+
+ * ### [1.who is this for and why they need a website](#who-is-this-for-and-why-they-need-a-website)
+ * ### [2.project aim](##-PROJECT-AIM)
+ * ### [3.website needs](#website-needs)
+ * ### [4.website design needs](#website-design-needs)
+ * ### [5.user needs](#user-needs)
+ </details>
+
+ ## Design Choices
+ <details>
+ <summary>click to expand</summary>
+
+ * ### [6.Action Plan](#action-plan)
+ * ### [7.wedsite design choices](#website-design-choices)
+ * ### [8.website navigation](#website-navigation)
+ * ### [9.website footer](#website-footer)
+ * ### [10.website main body](#website-main-body)
+ * ### [11.website colours](#website-colours)
+ * ### [12.font family](#font-family)
+ * ### [13.wireframes, sketched layout](#wireframes,-sketched-layout)
+ </details>
+
+ ## website build
+ <details>
+ <summary>click to expand</summary>
+
+  * ### [14.design changes](#design-changes)
+  * ### [15.code structure](#code-structure)
+  * ### [16.code bugs/fixes](#code-bugs/fixes)
+   </details>
+
+ ## Final Website
+ <details>
+ <summary>click to expand</summary>
+
+  * ### [17.final product](#final-product)
+  * ### [18.references]
+   </details>
+
+ ## Evaluations
+ <details>
+ <summary>click to expand</summary>
+
+ * ### [19.Evaluation](#evaluation)
+  </details>
 
 
 
-## WHO IS THIS FOR AND WHY THEY NEED A WEBSITE.
+## WHO IS THIS FOR AND WHY THEY NEED A WEBSITE
 
 I perform as a magician and mentalist, performing magic tricks and mind reading effects at parties,weddings, birthdays and other organised events. My act is unique as it combines traditional magic tricks  with traditinal mentalism effects reinvented for a mordern day audience. My act comes in three types of performance, close up/walkaround, parlour and stage. I take bookings for my performances and most of my bookings are aquired by word of mouth. Across the country there are lots of magicians available to book however no two magicians are the same, each magician has his or her own unique style and method of performing. In this case it is important for anyone booking a magic act to understand what type of magician they want to book and what type of act. For the magician it is important to showcase his or her own unique style and type of act they are able to perform. To help showcase this for me, I have decided to build a website to help potenial bookers get a feel and understsanding of myself as a performer and what kind of performances I do. It can also provide a way of communicating any queries regarding my services or enquirie to potenial bookings.
 
 
 
 
-## PROJECT AIM
+## PROJECT AIM 
 
 The aim of the project is to build a website that describes the performer and the services that they provide and a way of contacting the performer with questions or enquires.
 
@@ -40,6 +89,8 @@ The aim of the project is to build a website that describes the performer and th
 - Simple and easy to use
 
 - Viewable on all sizes of devices
+
+- website will be built with HTML,CSS
 
 ## USER NEEDS 
 
@@ -75,6 +126,9 @@ To achieve the aim of the project I'm going to design a website consisting of 4 
 ### The Contact Page 
 
 - The contact page will be where visitors to the site can fill out an enquiry form to pose a question or enquire about a potenial booking.
+
+
+## [Back to top](#contents)
 
 ## WEBSITE DESIGN CHOICES
 
@@ -136,6 +190,11 @@ To keep the website simple and easy to use I'm going to have the same header on 
 <img src="design-images/contact-page.jpeg">
 
 
+
+### [Back to top](#contents)
+
+<br>
+
 ## DESIGN CHANGES 
 
 Creating the website the wireframes sketched layout was used as a guide to the overall look of the website.
@@ -188,7 +247,27 @@ This type of link is also at the bottom of the about page linking to the contact
 
 ![cut sections of quick links](design-images/quick-link-image.jpeg)
 
+### [Back to top](#contents)
 
+<br>
+
+## CODE STRUCTURE
+
+Folders 
+
+ css ------------------ contains style.css ---all CSS styling for website 
+
+ design-images -------- contains all images used in README.md
+
+ gallery-images ------- contains all images used in the website gallery
+ 
+ images --------------- contains all images used for the website layout/structure
+
+ about.html
+
+ contact.html
+
+ index.html
 
 ## CODE BUGS/FIXES
 
@@ -212,7 +291,7 @@ This type of link is also at the bottom of the about page linking to the contact
 
 ![image of CSS code for navbar fix](design-images/bug-navbar-image.jpeg)
 
-- Background Images not working in github pages.
+- Background Images not working in github pages.To fix needed to add ../ to file direct, also need to wait for github to load before rechecking changes as they dont take effect immediately.
 
 
 #### Issues not fixed
@@ -257,16 +336,39 @@ This type of link is also at the bottom of the about page linking to the contact
 
 ## References/ Credits 
 
-The background image I got from cool baackgrounds website https://coolbackgrounds.io/ from their free to use section
+#### Bootstrap v5.0.1
 
-<img src="images/background-color.jepg">
+In building the website I used bootstrap v5.0.1 I used this for
+<details>
+ <summary>click to expand</summary>
 
-The grow transition for the 'click here to enquire' in the footer is from Hover.css http://ianlunn.github.io/Hover/
+* Page layout for gallery.html and about.html
+*  Creating the Navbar, https://getbootstrap.com/docs/5.0/components/navbar/
+*  Creating the footer
+*  collapsing navbar which needed bootstrap javascript code
+</details>  
 
-https://getbootstrap.com/docs/5.0/components/navbar/
 
-https://fontawesome.com/
+#### Main background image
+- The background image I got from cool baackgrounds website https://coolbackgrounds.io/ from their free to use section
 
-## Evaluation
+#### Performer and Performnces images
+- All images of performer and performances are my own.
+
+
+#### Footer link to Contacts
+- The grow transition for the 'click here to enquire' in the footer is from Hover.css http://ianlunn.github.io/Hover/
+
+#### Footer Icons
+- Icons for social medias links were obtained from fontawesome - https://fontawesome.com/
+
+#### Markdowncollapsible section
+- I got the code for the markdown collapsible section from -
+https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
+
+### [Back to top](#contents)
+
+## Evaluation 
+
 
 ## Future changes/ add ons 
