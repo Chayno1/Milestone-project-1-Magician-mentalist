@@ -212,6 +212,8 @@ This type of link is also at the bottom of the about page linking to the contact
 
 ![image of CSS code for navbar fix](design-images/bug-navbar-image.jpeg)
 
+- Background Images not working in github pages.
+
 
 #### Issues not fixed
 
