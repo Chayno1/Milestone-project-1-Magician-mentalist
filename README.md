@@ -370,5 +370,21 @@ https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
 
 ## Evaluation 
 
+### Test Website
+
+#### User tests 
+links working, screen sizes, buttons work
+
+#### Code Checkers
+html check, css check, lighthouse
+
+#### meet design needs user and business
+
+## Deployment
+where i uploaded the website and how.
+
 
 ## Future changes/ add ons 
+
+performance videos, blog, reviews
+
