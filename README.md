@@ -49,6 +49,11 @@
  <summary>click to expand</summary>
 
  * ### [19.Deployment](#deployment)
+ * ### [20.Test Website](#test-website)
+ * ### [21.Project Objectives test](#project-objectives-test)
+ * ### [22.Website Build Test](#website-build-test)
+ * ### [23.Overall Test Conclusion](#overall-test-conclusion)
+ * ### [24.Future changes/ add ons](#future-changes/-add-ons)
   </details>
 
 
@@ -499,6 +504,10 @@ Conclusion: Overall I think the project aim was achieved, The website does the j
 Overall it provides a strong foundation to build on with not much adjustment needed.
 
 
+### [Back to top](#contents)
+
+
+
 #### Website Build Test
 
   - This part of the test is about testing the websites links, responsive design, coding and background structure. This includes testing html coding, css styling, css layout, file layout and organisation.
@@ -520,19 +529,39 @@ html : To test my html coding first I went through each page checking for any ob
 
 ![image of html checker results](design-images/html-checker-image.jpeg)
 
-CSS : To test my css code I again went through my style.css sheet and visually looked for any obvious errors I noticed. I then put my code through an online css validator at https://jigsaw.w3.org/css-validator/ . This did flag up loads of minor errors, however I was unable to interpret what the results were indicating as the error code was not in my css file. My conclusion is the errors were to do with background code from the bootstrap classes I used on my website. As my course is not yet complete I'm unable to act at this time till I learn more about different codes. Results displayed below:
+CSS : To test my css code I again went through my style.css sheet and visually looked for any obvious errors I noticed. I then put my code through an online css validator at https://jigsaw.w3.org/css-validator/ . This did flag up loads of minor errors, however I was unable to interpret what the results were indicating as the error code was not in my css file. My conclusion is the errors were to do with background code from the bootstrap classes I used on my website, also possibly the verison of bootstrap being used. As my course is not yet complete I'm unable to act at this time till I learn more about different codes. Results displayed below:
 
 ![image of css checker results](design-images/w3c-css-test-image.jpeg)
  
+ lighthouse: An additional test I performed was with lighthouse in google chrome developers tools. I ran this test to get an overall read out of how my website was performing, results below :
 
-#### Code Checkers
- lighthouse
+ ![image of lighthouse test results](design-images/lighthouse-test-image.jpeg)
 
 
+### Overall Test Conclusion
 
+Based on all the testing I have performed on the website I feel despite a few errors and its basic layout and styling the website, looks, functions, runs to a good standard and is strong foundation to be built upon with the gains of knowledge and experience.
 
 
 ## Future changes/ add ons 
 
-performance videos, blog, reviews
+To improve and better exceed on project aims, these are future acts I would take on improving this website
 
+#### Fix Issues
+- Re-examine the gallery and solve the gallery display at different size screens, possible fix already suggested in this document is the re-design of page layout in regards to images in rows and columns.
+
+- Investigate/ fix errors flagged by css validator
+
+#### new features
+
+- blog page , a blog for the users to read which the performer regularly updates will help the user get to know the performer and what he does better. I t also may provide opportunites to inform users when a public performance is happening so they can have the opportunity to see the service in action.
+
+- videos, videos of performances, or link to performances on youtube may also help the user get a feel for the performer and the service provided.
+
+- Review section, Giving users who have already used the services of the performer a chance to give feed back to othere to what the experience was like.
+
+- More fonts, changing some of the contents font style maybe a way to highlight different information for the user without direct direction.
+ It could also help style the page better.
+
+
+### [Back to top](#contents)
