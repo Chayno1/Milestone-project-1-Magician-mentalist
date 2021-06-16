@@ -27,7 +27,7 @@
  * ### [13.wireframes, sketched layout](#wireframes,-sketched-layout)
  </details>
 
- ## website build
+ ## Website Build
  <details>
  <summary>click to expand</summary>
 
@@ -41,14 +41,14 @@
  <summary>click to expand</summary>
 
   * ### [17.final product](#final-product)
-  * ### [18.references]
+  * ### [18.references](#References/-Credits)
    </details>
 
  ## Evaluations
  <details>
  <summary>click to expand</summary>
 
- * ### [19.Evaluation](#evaluation)
+ * ### [19.Deployment](#deployment)
   </details>
 
 
@@ -255,8 +255,8 @@ This type of link is also at the bottom of the about page linking to the contact
 
 Folders 
 
- css ------------------ contains style.css ---all CSS styling for website 
-
+ css ------------------ contains style.css ---- all CSS styling for website
+             
  design-images -------- contains all images used in README.md
 
  gallery-images ------- contains all images used in the website gallery
@@ -268,6 +268,21 @@ Folders
  contact.html
 
  index.html
+
+ css/style.css ---- styling is broken down into sections below
+
+ - body and font family for website
+ - header
+ - navbar 
+ - footer
+ - page titles
+ - home page main body
+ - about page
+ - gallery page
+ - contact page
+ - media queries tablet
+ - media queries mobile
+ - media queries navbar fix
 
 ## CODE BUGS/FIXES
 
@@ -342,10 +357,13 @@ In building the website I used bootstrap v5.0.1 I used this for
 <details>
  <summary>click to expand</summary>
 
+* https://getbootstrap.com/docs/5.0/getting-started/introduction/
 * Page layout for gallery.html and about.html
 *  Creating the Navbar, https://getbootstrap.com/docs/5.0/components/navbar/
-*  Creating the footer
+* ![image of navbar code](design-images/navbar-code-image.jpeg)
 *  collapsing navbar which needed bootstrap javascript code
+*  Creating the footer
+* ![image of footer code](design-images/footer-code-image.jpeg)
 </details>  
 
 
@@ -355,6 +373,11 @@ In building the website I used bootstrap v5.0.1 I used this for
 #### Performer and Performnces images
 - All images of performer and performances are my own.
 
+#### Navbar page link underline hover
+
+- The underlining of page links in navabar is from Hover.css http://ianlunn.github.io/Hover/
+  class: hvr-underline-from-center
+
 
 #### Footer link to Contacts
 - The grow transition for the 'click here to enquire' in the footer is from Hover.css http://ianlunn.github.io/Hover/
@@ -362,26 +385,151 @@ In building the website I used bootstrap v5.0.1 I used this for
 #### Footer Icons
 - Icons for social medias links were obtained from fontawesome - https://fontawesome.com/
 
+![image of social media icons and code](design-images/icon-code-image.jpeg)
+
+#### Font Family
+- The font 'Aclonica' was obtained from google fonts - https://fonts.google.com/specimen/Aclonica 
+
 #### Markdowncollapsible section
 - I got the code for the markdown collapsible section from -
 https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
 
+![image of code from markdown collapse source](design-images/content-collapse-image.jpeg)
+
+
 ### [Back to top](#contents)
+
+## Evaluation
+
+### Deployment
+
+My website is deployed on github pages -  https://chayno1.github.io/Milestone-project-1-Magician-mentalist/
+
+How I deployed -
+
+1. Signed in on Github.com
+2. opened up my repository Milestone-project-1-Magician-mentalist
+3. opened settings and clicked on pages
+4. In pages clicked on source and changed from none to main then saved.
+5. opened live url to check website.
+6. made minor changes to image links as background links didnt intially load.
+7. Rechecked live url and proceeded to test website.
+
 
 ## Evaluation 
 
 ### Test Website
 
-#### User tests 
-links working, screen sizes, buttons work
+- To evaluate and test my project I broke the testing down into two categories;
+- Project objective test
+- Website Build test
+
+#### Project objective test
+
+- This part of the test is about testing the websites ability to meet the aims intially set out for the project. This includes
+  website business needs, design needs, user needs and project aim.
+
+##### Website business needs
+
+ - To explain the type of performer the magician is.
+
+- To explain the type of acts the performer can provide 
+
+- Examples of different situations/events in which the performer and their acts are best suited
+
+- A way for anyone visiting to make enquries 
+
+- Showcase the performers ability
+
+Evaluation : The website covers all 5 points on business needs, 
+- the performer has an intial description on the home page and a more detailed one on the home page.
+- The type of acts provided are mentioned on the home page and descrided in more detail on the about page.
+- Examples of different situations/events is described for each type of act on the about page.
+- The contact page is specifically for users to make enquires
+- The gallery showcases the performer in action in different situations at different events
+
+Conclusion : The website achieves the busines needs to a basic level
+
+##### Website design needs
+
+- Website site needs to be mordern and stylish
+
+- Unique to the performer
+
+- Simple and easy to use
+
+- Viewable on all sizes of devices
+
+- website will be built with HTML,CSS
+
+Evaluation : The website covers all 5 points on design needs,
+- website uses modern link icons for social media, interesting font and images
+- The website site is decorated with images of the performer, personalising the website
+- The website is made of four pages with a clear easy to read navbar and a consistant header and footer on all pages
+- The website is built with a responsive design, changing to fit onto different size devices
+- the website was built with HTML,CSS and some JavaScript
+
+Conclusion: The website achieves the goals of design needs to a basic level, however some coding bugs yet to fix eg gallery picture alignment
+reference: [code bugs/fixes](#code-bugs/fixes) the website still has small areas of work.
+
+
+####  website user needs 
+
+- Who's website they are on, and what service they are providing.
+
+- quickly establish where to find the information they are looking for.
+
+- To get a feel and understanding for the performer and their ability.
+
+- To get an understanding of the type of service they are likely to get.
+
+- How they go about aquiring that service.
+
+Evaluation : The website covers all 5 points on user needs,
+- The performers profession and name are clearly advertised on all four pages of the website, the service provided is described on the home and about page, also demonstrated on the gallery page.
+- Navbar and footer links clearly displayed on all pages, also subtle links to related pages inbedded into the content at points which the user might require, for example on the home page after reading the small description of the performer there is a link to the about page if the user wants to find out more.
+- The performer and services are explained on the website, also the gallery provides action shots from live performances, showing how it looks in real life.
+- The services are explained on the about page with examples given to what situations they are best suited to.
+
+Conclusion: All the goals are achieved, again to a basic level, the illustration of the performer in action and description of services provided could be more detailed.
+
+####  project aim
+
+Conclusion: Overall I think the project aim was achieved, The website does the job it is required to do and does it in a simple, stylish way.
+Overall it provides a strong foundation to build on with not much adjustment needed.
+
+
+#### Website Build Test
+
+  - This part of the test is about testing the websites links, responsive design, coding and background structure. This includes testing html coding, css styling, css layout, file layout and organisation.
+
+  #### website links, responsive design,deployment
+ 
+ Evaluation : After deploying the website I first checked that each page loaded properly which was successful after some minor adjustments image file links. I then tested the responsive design by changeing the screen size and observing how the website reacted, in which the website changed as designed apart from minor issue referenced in the [code bugs/fixes](#code-bugs/fixes).
+ Next I checked all the links, the navbar links to all the pages, the footer links, social media links and main body links. I made sure that all links on all pages worked correctly and went to the correct location, also whether they opened in a new tab or changed the page as set in the coding. The website passed all these tests.
+
+Conclusion : The frontend of the website is operating and presenting correctly as designed in the coding, no issues with overall interaction.
+
+#### html, css, file organisation
+
+file organisation : Due to gitpods folder creation system, the simplest and most practical way for me to organise the files was as follows.
+I kept the images separate into 3 different categories design-images, gallery-images, images. The design-images folder is for all images used in the README.md, gallery-images folder is for all images used in the gallery on the gallery page. The images folder is for all images used to build the website design itself, so thats the header image, background image, images on the main body of each page except the gallery page. The style.css is contained in the CSS folder and all the html and README.md are left out of folders by themselves.
+Gitpod would not allow me to place two folders within one folder without the two folders being within one another which in turn created very long file links. This layout I found was the best way without over complicating things.
+
+html : To test my html coding first I went through each page checking for any obvious mistakes I could notice myself. I then put my code through a coder validator at https://validator.w3.org/ which flaged up two main errors. Both in the footer where I had not put a space between two classes on the button and on the link. After fixing these I ran the test again, results displayed below :
+
+![image of html checker results](design-images/html-checker-image.jpeg)
+
+CSS : To test my css code I again went through my style.css sheet and visually looked for any obvious errors I noticed. I then put my code through an online css validator at https://jigsaw.w3.org/css-validator/ . This did flag up loads of minor errors, however I was unable to interpret what the results were indicating as the error code was not in my css file. My conclusion is the errors were to do with background code from the bootstrap classes I used on my website. As my course is not yet complete I'm unable to act at this time till I learn more about different codes. Results displayed below:
+
+![image of css checker results](design-images/w3c-css-test-image.jpeg)
+ 
 
 #### Code Checkers
-html check, css check, lighthouse
+ lighthouse
 
-#### meet design needs user and business
 
-## Deployment
-where i uploaded the website and how.
+
 
 
 ## Future changes/ add ons 
